@@ -3,4 +3,5 @@
 
 if __name__ == "__main__":
   my_app = "Leaktopus"
+  aws_key = "AKIAIOSFODNN7EXAMPLE"
   print (my_app)
